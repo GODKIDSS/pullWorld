@@ -1,5 +1,5 @@
 # Let's Pull The World Together!
-Get code as a fulcrum and pull the world hardly, or push the people around you if you like.
+Get code as a fulcrum and push the world hardly like a capitalist, or push the world if you like.
 
 ## Content
 * amulet.py: open and check, hope you like it!
